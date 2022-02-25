@@ -1,7 +1,7 @@
 # vending_machine
 End of Java Mini-Capstone 
 
-Vending Machine Application - created a command line vending machine program that utilized Object-Oriented Programming Principles, Java, and file I/O.
+Vending Machine Application - created a command line vending machine program that utilized Object-Oriented Programming Principles, Java, and file I/O. Practiced working with Maps and Queues. 
 
 Open via IDE from vending-machine/ 
 
